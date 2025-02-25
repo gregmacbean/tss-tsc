@@ -1,0 +1,14 @@
+{
+  "name": "tdd-tsc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest",
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "5.7.3",
+    "vitest": "3.0.7"
+  }
+}
